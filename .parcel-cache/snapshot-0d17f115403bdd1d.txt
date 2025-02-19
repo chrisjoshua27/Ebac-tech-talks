@@ -24,7 +24,7 @@
 101C:\Users\User\Documents\GitHub\Ebac-tech\node_modules\caniuse-lite\data\features\keyboardevent-key.js133830911325262266 0
 58C:\Users\User\Documents\GitHub\Ebac-tech\sharp.config.json133837665555021864 0
 76C:\Users\User\Documents\GitHub\Ebac-tech\node_modules\update-browserslist-db133830911284689465 1
-53C:\Users\User\Documents\GitHub\Ebac-tech\package.json133844618595936066 0
+53C:\Users\User\Documents\GitHub\Ebac-tech\package.json133844619728041324 0
 109C:\Users\User\Documents\GitHub\Ebac-tech\node_modules\@swc\helpers\_\_initializer_warning_helper\package.json133830911318094852 0
 95C:\Users\User\Documents\GitHub\Ebac-tech\node_modules\@swc\helpers\esm\_wrap_async_generator.js133830911314377312 0
 77C:\Users\User\Documents\GitHub\Ebac-tech\node_modules\semver\classes\range.js133830911300483803 0
